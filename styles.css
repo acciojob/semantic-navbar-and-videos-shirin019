@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+a{
+	text-decoration:none;
+	
+}
+nav{
+	display:flex;
+	justify-content:space-between;
+}
+video{
+	display:flex;
+	align-content:space-between;
+}
